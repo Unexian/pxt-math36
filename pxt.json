@@ -6,7 +6,8 @@
     },
     "files": [
         "math36.ts",
-        "README.md"
+        "README.md",
+        "pxt.json"
     ],
     "testFiles": [
         "test.ts"
