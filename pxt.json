@@ -1,6 +1,6 @@
 {
     "name": "math36",
-    "description": "",
+    "description": "An extension full of useful mathematics operations",
     "dependencies": {
         "device": "*"
     },
