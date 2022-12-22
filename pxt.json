@@ -5,10 +5,8 @@
         "device": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
-        "README.md",
-        "assets.json"
+        "math36.ts",
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
