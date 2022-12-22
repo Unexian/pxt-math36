@@ -13,9 +13,6 @@ namespace Math {
     export function rect2Pol(x: number, y: number) {
         return { r: Math.sqrt(x * x + y * y), theta: Math.atan2(y, x) }
     }
-}
-//% color="#567ae4" weight=100
-namespace Sprites {
     //% block="Angle between $sprite1 and $sprite2"
     export function angleBetween(sprite1: Sprite, sprite2: Sprite) {
         let deltaX = sprite2.x - sprite1.x
